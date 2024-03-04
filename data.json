@@ -11,6 +11,31 @@
 "floor" : "البدروم",
 "major" : null,
 "sub_major" : null
+},{
+"name" :"معمل ",
+"floor" : "الدور الاول",
+"major" : null,
+"sub_major" : null
+},{
+"name" :"د / أحمد شحاتة",
+"floor" : "الدور الرابع",
+"major" : "الهندسة الكهربائية",
+"sub_major" : "الاتصالات و الالكترونيات"
+},{
+"name" :"معمل حاسب",
+"floor" : "الدور الثالث",
+"major" : null,
+"sub_major" : null
+},{
+"name" :"د / أحمد شحاتة",
+"floor" : "الدور الثاني",
+"major" : "الهندسة الكهربائية",
+"sub_major" : "الاتصالات و الالكترونيات"
+},{
+"name" :"معمل نظم",
+"floor" : "البدروم",
+"major" : null,
+"sub_major" : null
 }
 ]
 }
