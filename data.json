@@ -1983,6 +1983,184 @@
     "sub_major": null
   },
   {
+    "name":"مكتب عميد الكلية",
+    "floor":"الدورالثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مكتب سكرتير العميد",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":" مجلة الكلية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مكتب أ.د/ وكيل الكلية لشؤون الدراسات العليا",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب أ.د/ وكيل الكلية لشؤون التعليم والطلاب",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"سكرتارية وكيل الكلية لشؤون التعليم والطلاب",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"قاعة مجلس الكلية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب أمين الكلية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"أ.د/ وكيل الكلية لشؤون البيئة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"سكرتارية وكيل الكلية لشؤون البيئة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب برنامج مساحة وخرائط والمساحة البحرية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },   
+
+  { 
+    "name":"مكتب أعضاء الهيئه المعاونة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مكتب وحدة الإرشاد الأكاديمي",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب وحدة ضمان الجودة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"قاعة المساحة البحرية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"قاعة ترجمة ألماني",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"وحدة المقررات الإلكترونية ",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مصلي رجالي",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب أ.د/ كريم مصلح صالح",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مكتب أعضاء التدريس قسم الفلسفة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب منسق برنامج ترجمة ألمانية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+
+
+
+  {
+    "name":"مكتب شؤون طلاب البرامج الخاصة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب الخزانة الإلكترونية (ITI)",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+  
+  {
+    "name":"مكتب رئيس قسم الفلسفة",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
+    "name":"مكتب منسق برنامج الترجمه الإنجليزية",
+    "floor":"الدور الثاني",
+    "major":null,
+    "sub_major":null
+  },
+
+  {
     "name"     : "قاعة أ.د/ نصار عبد الله"   ,
     "floor"    : "الدور الثالث (الثانى علوى)",
     "major"    : null                      ,
